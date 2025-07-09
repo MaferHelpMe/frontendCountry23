@@ -13,9 +13,7 @@ Una aplicación moderna y responsiva para explorar países del mundo, construida
 - **🎭 Animaciones Fluidas**: Transiciones suaves con Framer Motion
 - **🧪 Pruebas Unitarias**: Suite completa de testing con Jest y React Testing Library
 
-## 🚀 Demo en Vivo
 
-[Ver Demo](https://your-demo-url.com) (Reemplazar con URL real)
 
 ## 🛠️ Stack Tecnológico
 
@@ -191,19 +189,7 @@ npm run test:watch
 npm run test:coverage
 ```
 
-## 🚀 Despliegue
 
-### Vercel (Recomendado)
-
-1. **Fork el repositorio**
-2. **Conectar con Vercel**
-3. **Deploy automático** en cada push
-
-### Otras Plataformas
-
-- **Netlify**: Compatible con SSG
-- **Railway**: Para full-stack deployment
-- **Docker**: Incluir Dockerfile si es necesario
 
 ## 🔧 Configuración Avanzada
 
@@ -243,32 +229,17 @@ npm run type-check
 - Verificar configuración en `tailwind.config.js`
 - Comprobar importación en `globals.css`
 
-## 🤝 Contribución
 
-1. **Fork** el proyecto
-2. **Crear** una rama feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** los cambios (`git commit -m 'Add AmazingFeature'`)
-4. **Push** a la rama (`git push origin feature/AmazingFeature`)
-5. **Abrir** un Pull Request
 
-### Guías de Contribución
 
-- Seguir convenciones de commit
-- Incluir pruebas para nuevo código
-- Mantener cobertura > 80%
-- Documentar cambios en README
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Maria Fernanda Palencia **
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
+- GitHub: [@tu-usuario](https://github.com/MaferHelpMe)
+- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/fernandapalencia/)
+- Email: mafer18199420@gmail.com
 
 ## 🙏 Reconocimientos
 
