@@ -71,7 +71,7 @@ Una aplicación moderna y responsiva para explorar países del mundo, construida
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/countries-explorer.git
+   git clone https://github.com/MaferHelpMe/frontendCountry23.git
    cd countries-explorer
    ```
 
